@@ -7,7 +7,7 @@
 
 ### 👨‍💻 About Me
 
-- 🎓 Currently working as a **Software Engineer** with experience in **React**, **Angular**, **Vue**, and **Node.js**
+- 🎓 Currently working as a **Software Engineer** with experience in **React**, **Angular**, and **Node.js**
 - 🌱 Continuously learning and upgrading skills in **Web Development**, **Cloud Integration**, and **System Design**
 - 🤝 Open to collaboration on **React / Angular projects**, especially full-stack web applications
 - 💬 Ask me about **JavaScript**, **Frontend Frameworks**, **REST APIs**, and **UI/UX design**
